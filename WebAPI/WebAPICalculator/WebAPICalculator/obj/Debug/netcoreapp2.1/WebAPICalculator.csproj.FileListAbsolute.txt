@@ -1,0 +1,14 @@
+C:\Users\aykhanzd\source\repos\WebAPICalculator\WebAPICalculator\bin\Debug\netcoreapp2.1\WebAPICalculator.deps.json
+C:\Users\aykhanzd\source\repos\WebAPICalculator\WebAPICalculator\bin\Debug\netcoreapp2.1\WebAPICalculator.runtimeconfig.json
+C:\Users\aykhanzd\source\repos\WebAPICalculator\WebAPICalculator\bin\Debug\netcoreapp2.1\WebAPICalculator.runtimeconfig.dev.json
+C:\Users\aykhanzd\source\repos\WebAPICalculator\WebAPICalculator\bin\Debug\netcoreapp2.1\WebAPICalculator.dll
+C:\Users\aykhanzd\source\repos\WebAPICalculator\WebAPICalculator\obj\Debug\netcoreapp2.1\WebAPICalculator.csprojAssemblyReference.cache
+C:\Users\aykhanzd\source\repos\WebAPICalculator\WebAPICalculator\obj\Debug\netcoreapp2.1\WebAPICalculator.csproj.CoreCompileInputs.cache
+C:\Users\aykhanzd\source\repos\WebAPICalculator\WebAPICalculator\obj\Debug\netcoreapp2.1\WebAPICalculator.RazorAssemblyInfo.cache
+C:\Users\aykhanzd\source\repos\WebAPICalculator\WebAPICalculator\obj\Debug\netcoreapp2.1\WebAPICalculator.RazorAssemblyInfo.cs
+C:\Users\aykhanzd\source\repos\WebAPICalculator\WebAPICalculator\obj\Debug\netcoreapp2.1\WebAPICalculator.AssemblyInfoInputs.cache
+C:\Users\aykhanzd\source\repos\WebAPICalculator\WebAPICalculator\obj\Debug\netcoreapp2.1\WebAPICalculator.AssemblyInfo.cs
+C:\Users\aykhanzd\source\repos\WebAPICalculator\WebAPICalculator\obj\Debug\netcoreapp2.1\WebAPICalculator.RazorTargetAssemblyInfo.cache
+C:\Users\aykhanzd\source\repos\WebAPICalculator\WebAPICalculator\bin\Debug\netcoreapp2.1\WebAPICalculator.pdb
+C:\Users\aykhanzd\source\repos\WebAPICalculator\WebAPICalculator\obj\Debug\netcoreapp2.1\WebAPICalculator.dll
+C:\Users\aykhanzd\source\repos\WebAPICalculator\WebAPICalculator\obj\Debug\netcoreapp2.1\WebAPICalculator.pdb
